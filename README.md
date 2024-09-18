@@ -13,5 +13,6 @@ This project is a basic implementation of a simple in-memory database with Appen
 Clone the repository:
 
 ```bash
+git clone https://github.com/sanjaydev02/redis-go.git
 
 
